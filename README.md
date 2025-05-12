@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![EMPD7](https://github.com/user-attachments/assets/0aecb760-2940-470f-aabe-fe0ee395f06c)
+![EMPD7 1](https://github.com/user-attachments/assets/b6390bfd-3d1d-409f-a424-2e9eaa9e4f06)
+![EMPD7 2](https://github.com/user-attachments/assets/4e0c069b-29bc-4824-8053-bcc9f3b9e552)
 
-### Name:
-### Register Number:
+### Name: SREE GOVIND SA
+### Register Number: 212224240159
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
